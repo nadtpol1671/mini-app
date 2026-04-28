@@ -1038,7 +1038,7 @@ export default function EarnPage({
 			case "Basic income":
 				return (
 					<>
-						<div className="fixed left-0 right-0 top-28 z-50 mx-auto w-full max-w-md px-6">
+						{/* <div className="fixed left-0 right-0 top-28 z-50 mx-auto w-full max-w-md px-6">
 							<div className="mt-2 flex w-full cursor-pointer rounded-xl border border-gray-200 bg-gray-0 p-4 shadow-sm">
 								<div className="flex w-full items-start overflow-hidden">
 									<div className="mr-4 h-[24px] w-[24px] border-[4px] border-gray-900 flex-shrink-0 rounded-full" />
@@ -1068,7 +1068,7 @@ export default function EarnPage({
 									</a>
 								</div>
 							</div>
-						</div>
+						</div> */}
 
 						<div className="flex w-full flex-col items-center py-8">
 							<div className="mb-10 flex h-24 w-24 items-center justify-center rounded-full bg-gray-100">
